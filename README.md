@@ -1,6 +1,8 @@
 # QuadB-task
-
 The home page showcases a list of TV shows with essential information like ratings, genres, status, and premiere date. Clicking on a show's card leads to its individual detail page, featuring an image, summary, and a modal form for ticket booking. Form details are securely stored in local storage for easy access and retrieval.
+<br>
+`javaScript`, `React.js`, `Material UI`
+
 # Project screenshots
 | Working [1/4]           | Working [2/4]             |
 | ---------------------- | ---------------------- |
